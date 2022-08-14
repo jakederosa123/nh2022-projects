@@ -86,3 +86,10 @@ the audio features from fMRI and anatomical features. Other is to predict out-of
 **Contributors**: [Sai Kiersarsky](https://github.com/sai-del-cielo), [Artur Paulo](https://github.com/arturjpaulo), [Chrystal Dragonflame](https://github.com/chrystaldragonflame), [Ramon Xulvi-Brunet](https://github.com/raxulbru), [Brent McPherson](https://github.com/bcmcpher), [Luis Fernando Fontoura](https://github.com/lfernandof), [Thiti Premrudeepreechacharn](https://github.com/tpremrud) \
 **Description of project**: Connectome harmonics is a frequency-speciﬁc representation of cortical organization. Here, we study how connectome-harmonics change with age.\
 **How to get involved**: Submit a pull request!
+
+### Neuropsychiatric Brain States
+**Name**: Neuropsychiatric Brain States\
+Project url(s): https://github.com/jakederosa123/neurohack_brainstates\
+**Contributors**: [Jacob DeRosa](https://github.com/jakederosa123)\
+**Description of project**: Dynamical changes have been tracked from resting-state functional magnetic resonance imaging when a person is conscious but not carrying out a directed task during scanning. These diverse dynamical states are believed to represent different internal states of the brain, in terms of brain-regional interactions. Here, we sought to leverage resting-state fMRI to derive brain states that could be used to classify individuals with ADHD, Bipolar, and Schizophrenia compared to healthy controls using the UCLA Consortium for Neuropsychiatric Phenomics LA5c Study.\
+**How to get involved**: Post an issue or submit a PR.
